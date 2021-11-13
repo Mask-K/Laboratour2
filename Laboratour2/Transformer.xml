@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl"?>
+<Students>
+  <Student>
+    <FullName>Клименко Максим Віталійович</FullName>
+    <Faculty>ФКНК</Faculty>
+    <Speciality>Комп'ютерні науки</Speciality>
+    <Cathedra>ТК</Cathedra>
+    <Subjects>ООП, Матлог, Дифури</Subjects>
+    <RateMark>88</RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+  <Student>
+    <FullName>Стеценко Ілля Валерійович</FullName>
+    <Faculty>ФРЕКС</Faculty>
+    <Speciality>Бродіння</Speciality>
+    <Cathedra>МІ</Cathedra>
+    <Subjects>Куховаріння, Миття посуду, Обслуговування на касі</Subjects>
+    <RateMark>88</RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+  <Student>
+    <FullName>Прохорчук Дмитро Сергійович</FullName>
+    <Faculty>ФІТ</Faculty>
+    <Speciality>ІПЗ</Speciality>
+    <Cathedra>ТТП</Cathedra>
+    <Subjects>ООП, Матстат, Хімія</Subjects>
+    <RateMark>95</RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+  <Student>
+    <FullName>Удод Богдан Альбертович</FullName>
+    <Faculty>Економіка</Faculty>
+    <Speciality>Міжнародні зв'язки</Speciality>
+    <Cathedra>Міжнародних відносин</Cathedra>
+    <Subjects>Право, Англійська мова, Філософія</Subjects>
+    <RateMark>98</RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+  <Student>
+    <FullName>Коломієць Олексій Сергійович</FullName>
+    <Faculty>Авіоніка</Faculty>
+    <Speciality>Диспетчер туалетов</Speciality>
+    <Cathedra>Диспетчерська</Cathedra>
+    <Subjects>Пілотування, Географія, Англійська мова</Subjects>
+    <RateMark>85</RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+  <Student>
+    <FullName>
+    </FullName>
+    <Faculty>
+    </Faculty>
+    <Speciality>
+    </Speciality>
+    <Cathedra>
+    </Cathedra>
+    <Subjects>
+    </Subjects>
+    <RateMark>
+    </RateMark>
+  </Student>
+</Students>
